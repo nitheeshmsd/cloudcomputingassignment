@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Profile Summary
+* B.E in SRM Easwari engineering college
+* Proficient in finding and resolving malfunctions, using exceptional technical and communication skills.
+* Ability to express technical concepts clearly to people with no technical background.
+* An effective communicator with excellent interpersonal, logical thinking & analytical abilities
+## Career objectives
+* to become a highly prolific and a resourceful engineer
+* to attain a job in a progressive organisation that serves a job both challenging and unique
 
-You can use the [editor on GitHub](https://github.com/nitheeshmsd/cloudcomputingassignment/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Skills
+* programming using c,c++,python and java
+* circuit decoding
+* excellent communication skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Scholastic
 ```markdown
-Syntax highlighted code block
+   
+ S.no                       name of the institution                  year               percentage of marks
+ 
+ 1                             HSC                                   2018                     80              
+ 2                             HS                                    2015                     97
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+For verification of certifications see (https://tnresults.nic.in/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nitheeshmsd/cloudcomputingassignment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Achievements
+* 3rd place in State level chess tournament
+* 1st place in state level quiz competition
+
+## personal details 
+### NAME         P.Nitheesh
+### BIRTH DATE   05/09/2000
+### AGE          20   
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### email     pnitheesh707@gmail.com
+#### mobile    9344759425

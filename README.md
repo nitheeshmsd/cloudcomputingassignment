@@ -31,7 +31,7 @@ For verification of certifications see (https://tnresults.nic.in/).
 
 ## Achievements
 * 3rd place in State level chess tournament
-* 1st place in state level quiz competition
+* 1st place in state level football tournament
 
 ## personal details 
 ### NAME         P.Nitheesh

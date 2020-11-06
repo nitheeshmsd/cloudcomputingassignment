@@ -1,9 +1,12 @@
+
 # RESUME
+
 ## Profile Summary
 * B.E in SRM Easwari engineering college
 * Proficient in finding and resolving malfunctions, using exceptional technical and communication skills.
 * Ability to express technical concepts clearly to people with no technical background.
 * An effective communicator with excellent interpersonal, logical thinking & analytical abilities
+
 ## Career objectives
 * to become a highly prolific and a resourceful engineer
 * to attain a job in a progressive organisation that serves a job both challenging and unique
